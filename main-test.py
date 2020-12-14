@@ -5,7 +5,7 @@ def TestAdd():
     print("Add Function works correctly")
 
 def TestSubtract():
-    assert Subtract(5,4) == 2
+    assert Subtract(5,4) == 1
     print("Subtract Function works correctly")
 
 if __name__ == '__main__':
