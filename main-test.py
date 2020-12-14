@@ -10,3 +10,4 @@ def TestSubtract():
 
 if __name__ == '__main__':
     TestAdd()
+    TestSubtract()
